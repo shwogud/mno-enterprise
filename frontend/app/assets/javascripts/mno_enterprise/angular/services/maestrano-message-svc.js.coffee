@@ -1,5 +1,5 @@
 angular.module('maestrano.services.message-svc', []).factory('MessageSvc', ['$q','$rootScope','TemplatePath', ($q,$rootScope,TemplatePath) ->
-
+   
   # -------------------------------------------------------------------------
   # Service
   # -------------------------------------------------------------------------
